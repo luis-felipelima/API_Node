@@ -13,6 +13,8 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.0.1",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.6",
     "node-fetch": "^3.2.4",
     "yarn": "^1.22.18"
   },
